@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![亮色](https://raw.githubusercontent.com/billqualls7/billqualls7/output/github-contribution-grid-snake.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billqualls7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **billqualls7/billqualls7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billqualls7)](https://github.com/billqualls7/github-readme-stats)
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=billqualls7&show_icons=true&theme=tokyonight)
